@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -35,7 +34,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
+
 ### Technology
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -83,4 +82,3 @@ JobSphere adalah aplikasi pencarian pekerjaan yang dirancang untuk membantu para
 
 Pengguna dapat melihat statistik seputar aplikasi pekerjaan mereka, seperti berapa banyak pekerjaan yang telah dilamar, berapa banyak yang sudah dibaca oleh perekrut, dan peluang mendapatkan wawancara.
 Fitur ini membantu pengguna memantau kinerja pencarian pekerjaan mereka dan melakukan penyesuaian jika diperlukan.
->>>>>>> cf252331eb1d814668c2e0a181683f882a27218c
